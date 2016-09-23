@@ -1,0 +1,9 @@
+class Helloworld
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("大家好");
+            Console.WriteLine("这是我的第一个程序");
+            Console.ReadKey();//程序会停到这里，等待用户从键盘上键入一个键之后，程序才继续运行
+        }
+    }
